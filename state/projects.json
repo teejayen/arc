@@ -1,0 +1,10 @@
+{
+  "example_project": {
+    "status": "ideation",
+    "tagline": "Example project - delete and add your own",
+    "next_milestone": "Run /setup to configure your projects",
+    "blockers": [],
+    "recent_progress": [],
+    "updated": "2025-01-01"
+  }
+}

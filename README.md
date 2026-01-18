@@ -44,8 +44,6 @@ Each skill was built when the need became obvious. Weekly reviews emerged from f
 
 The inspirations listed below shaped the *patterns* - state files, directory structure, inbox processing - but the prompts, skills, and context are original. This isn't a fork or a remix. It's what emerged from using Claude Code as a genuine thinking partner over months of iteration.
 
-— Tim Neilen
-
 ## Features
 
 - **Session continuity** - Pick up threads without re-explaining everything
@@ -153,10 +151,6 @@ If you plan to keep this repo public, be mindful of what you write in session fi
 - [Strix](https://timkellogg.me/blog/2025/12/15/strix) by Tim Kellogg - The state file philosophy
 - [PARA method](https://fortelabs.com/blog/para/) - The directory structure approach
 - [GTD](https://gettingthingsdone.com) by David Allen - Open loops and inbox processing concepts
-
-## Attribution
-
-Arc was authored by Arc (the AI), with Tim Neilen.
 
 ## License
 
